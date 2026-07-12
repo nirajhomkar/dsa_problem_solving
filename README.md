@@ -19,4 +19,8 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0222-count-complete-tree-nodes) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
