@@ -18,6 +18,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0404-sum-of-left-leaves](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0404-sum-of-left-leaves](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Database
 |  |
 | ------- |
@@ -43,4 +45,5 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
