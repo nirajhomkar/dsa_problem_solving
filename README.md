@@ -33,6 +33,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0197-rising-temperature) |
 | [0626-exchange-seats](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0626-exchange-seats) |
 ## Depth-First Search
