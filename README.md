@@ -51,4 +51,16 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0450-delete-node-in-a-bst](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0701-insert-into-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
