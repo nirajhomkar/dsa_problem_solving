@@ -54,10 +54,12 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0242-valid-anagram) |
 ## Sorting
