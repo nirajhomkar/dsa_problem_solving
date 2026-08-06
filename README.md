@@ -58,6 +58,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0036-valid-sudoku](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0347-top-k-frequent-elements) |
@@ -120,6 +121,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
@@ -129,4 +131,8 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
