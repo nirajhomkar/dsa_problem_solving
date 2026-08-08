@@ -66,6 +66,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0128-longest-consecutive-sequence) |
@@ -82,6 +83,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0049-group-anagrams) |
@@ -136,6 +138,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
 |  |
