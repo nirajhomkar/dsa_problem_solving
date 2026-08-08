@@ -83,6 +83,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -127,6 +128,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0022-generate-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -135,4 +137,12 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
