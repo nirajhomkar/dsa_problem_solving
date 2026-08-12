@@ -59,6 +59,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0001-two-sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0090-subsets-ii) |
@@ -154,6 +155,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | ------- |
 | [0022-generate-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
