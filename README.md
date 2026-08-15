@@ -61,6 +61,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0039-combination-sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0090-subsets-ii) |
@@ -83,6 +84,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0242-valid-anagram) |
@@ -158,6 +160,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0039-combination-sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
