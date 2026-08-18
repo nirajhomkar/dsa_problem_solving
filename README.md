@@ -41,6 +41,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0079-word-search) |
 | [0404-sum-of-left-leaves](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0437-path-sum-iii) |
 ## Breadth-First Search
@@ -64,6 +65,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0047-permutations-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -98,6 +100,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0020-valid-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -127,6 +130,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0079-word-search) |
 ## Union-Find
 |  |
 | ------- |
@@ -165,5 +169,6 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0046-permutations](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
