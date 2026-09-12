@@ -64,6 +64,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0046-permutations](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0090-subsets-ii) |
@@ -105,6 +106,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -159,6 +161,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
