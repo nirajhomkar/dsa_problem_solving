@@ -6,6 +6,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
@@ -58,6 +59,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0040-combination-sum-ii) |
