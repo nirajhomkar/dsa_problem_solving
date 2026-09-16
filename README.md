@@ -64,6 +64,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0036-valid-sudoku](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0049-group-anagrams) |
@@ -149,6 +150,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0155-min-stack) |
 ## Bracket Sequences
@@ -169,6 +171,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
@@ -186,4 +189,9 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
