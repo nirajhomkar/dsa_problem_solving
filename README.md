@@ -59,6 +59,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0039-combination-sum) |
@@ -176,4 +177,8 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0078-subsets](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0090-subsets-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
