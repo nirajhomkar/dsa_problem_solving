@@ -16,6 +16,6 @@ class Solution {
                 right=mid;
             }
         }
-        return nums[left];
+        return nums[right];
     }
 }
