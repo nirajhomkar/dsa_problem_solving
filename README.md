@@ -7,6 +7,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
@@ -75,6 +76,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0128-longest-consecutive-sequence](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0238-product-of-array-except-self) |
