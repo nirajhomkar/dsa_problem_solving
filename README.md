@@ -60,6 +60,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0036-valid-sudoku) |
@@ -96,6 +97,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
@@ -192,6 +194,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
