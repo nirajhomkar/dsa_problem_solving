@@ -95,6 +95,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0217-contains-duplicate](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0049-group-anagrams](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,4 +209,8 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
