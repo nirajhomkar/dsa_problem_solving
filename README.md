@@ -109,6 +109,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0020-valid-parentheses) |
@@ -178,6 +179,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0053-maximum-subarray) |
@@ -197,6 +199,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0031-next-permutation) |
@@ -213,4 +216,8 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0424-longest-repeating-character-replacement) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
