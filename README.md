@@ -118,6 +118,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0079-word-search](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0042-trapping-rain-water](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0647-palindromic-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -204,6 +206,7 @@ Collection of Data Structures and Algorithms solutions in Java with explanations
 | [0015-3sum](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0042-trapping-rain-water) |
+| [0647-palindromic-substrings](https://github.com/nirajhomkar/dsa_problem_solving/tree/master/0647-palindromic-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
